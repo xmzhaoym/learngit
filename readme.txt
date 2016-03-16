@@ -1,3 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a 支持中文吗？
+Git tracks changes.
